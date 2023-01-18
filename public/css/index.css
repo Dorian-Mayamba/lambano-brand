@@ -1,0 +1,28 @@
+#banner{
+    background-color:#5ffa67 ;
+    padding: 20vh 0px;
+}
+
+#banner .banner-text h1 #link{
+    background-color: black;
+    color: #f5f7f5;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#banner .banner-text h1 #link:hover{
+    background-color: #f5f7f5;
+    color: #000000;
+}
+
+.vl{
+    margin: 15px 0px;
+    border-left: solid 2px white;
+    
+}
+
+.divider{
+    border-top: 3px solid white;
+}
+
