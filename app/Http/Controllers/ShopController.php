@@ -11,6 +11,6 @@ class ShopController extends Controller
     }   
 
     public function sendOrderDetail(){
-        
+        //ToDo implement his function
     }
 }
